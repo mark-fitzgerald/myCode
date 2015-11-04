@@ -1,0 +1,57 @@
+body, footer {
+	background-color: #26596A;
+	text-align: center; 
+	font-family: "Helvetica Neue";
+	font-size: 25px;
+}
+div {
+	background-color: #104050;
+	border-bottom: 2px solid #022835;
+}
+
+h1, h2 	{
+	text-align: center;
+	color:#669999;
+}
+
+.trust {
+	color:#669999;
+	font-size: 30px;
+}
+
+.contable {
+	margin-left: 5%;
+}
+
+.TFtable {
+		width:100%; 
+		border-collapse:collapse; 
+	}
+	.TFtable td{ 
+		padding:7px; border:#022835 1px solid;
+	}
+	.TFtable tr{
+		background: #104050;
+	}
+	.TFtable tr:nth-child(odd){ 
+		background: #104050;
+	}
+	.TFtable tr:nth-child(even){
+		background: #104047;
+	}
+
+table, th, td {
+   	border: 1px solid #6C939F;
+   	color:#669999;
+   	padding: 15px;
+   	font-size: 30px;
+}
+
+th {
+	background-color: #104050;
+}
+
+.tail {
+	color:#669999;
+	font-size: 15px;
+}
